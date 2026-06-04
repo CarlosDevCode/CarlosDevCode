@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Eraldo2006&color=red&style=flat" alt="Profile views" />
 </p>
 
--
+--
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&duration=3000&pause=1500&color=C80000&width=535&lines=Ol%C3%A1%2C+me+chamo+Carlos!;Seja+bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG" /></a>
 
