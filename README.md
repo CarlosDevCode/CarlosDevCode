@@ -10,9 +10,11 @@
     &nbsp;&nbsp;➜ Estagiando no Setor de Gestão da Qualidade no HUAC (Hospital Universitário Alcides Carneiro)
 </div>
 
-##
-<div align="center">
-    Contatos
+## Habilidades
+
+<div>
+    <img src="https://img.shields.io/badge/-Python-3670A0?&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/-Java-%23ED8B00?&logo=openjdk&logoColor=white">
 </div>
 
 ## Contatos
