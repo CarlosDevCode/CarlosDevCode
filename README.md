@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&color=c80000&descAlign=0&descAlignY=0&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&color=c80000&descAlign=0&descAlignY=0&section=header" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eraldo2006&color=red&style=flat" alt="Profile views" />
@@ -8,4 +8,4 @@
 
 Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estadual da Paraíba(UEPB).
 
-<img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=50&color=c80000&descAlign=0&descAlignY=0&section=footer" />
+<img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=75&color=c80000&descAlign=0&descAlignY=0&section=footer" />
