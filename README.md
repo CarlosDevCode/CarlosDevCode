@@ -14,13 +14,15 @@
 <div>
     
 </div>
-    Tenho 20 anos e desde criança sempre tive fascínio no desenvolvimento de jogos digitais o que acabou me gerando grande interesse e me levando a trilhar no caminho da programação.<br>
+    Tenho 20 anos e desde criança sempre tive fascínio no desenvolvimento de jogos digitais o que acabou me gerando grande interesse e me levando a trilhar o caminho da programação.<br>
     <br> 
     Atualmente estou: <br>
     &nbsp;&nbsp;🎓 ➜ Cursando Análise e Desenvolvimento de Sistemas na UEPB (Universidade Estadual da Paraíba) <br>
     &nbsp;&nbsp;💻 ➜ Estagiando no Setor de Gestão da Qualidade no HUAC (Hospital Universitário Alcides Carneiro)
 
 </div>
+
+## Projetos
 
 ## Habilidades
 
