@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/-Pandas-11005E?&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/-SQLite-003959?&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/-Lua-00008B?&logo=lua&logoColor=white">
-    <img src="https://img.shields.io/badge/-C%23-512BD4?&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/-%23 C Sharp-512BD4?&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/-Git-FFFFFF?&logo=git&logoColor=F05437">
     <img src="https://img.shields.io/badge/-GitHub-000000?&logo=github&logoColor=white">
 </div>
