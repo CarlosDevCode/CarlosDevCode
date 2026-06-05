@@ -27,11 +27,18 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Projetos
 
+1.
+2.
+3.
+
 ## 🎯 Habilidades
 
 <div>
-    <img src="https://img.shields.io/badge/-Python-3670A0?&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/-Java-%23ED8B00?&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/-Python-3670A0?&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/-CSS-1D81C2?&logo=css&logoColor=white">
+    <img src="https://img.shields.io/badge/-Java Script-F2E230?&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/-Pandas-11005E?&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/-SQLite-003959?&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/-Lua-00008B?&logo=lua&logoColor=white">
@@ -44,6 +51,7 @@
 <div>
     <img src="https://img.shields.io/badge/-VSCODE-26A9F2?&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/-EclipseIDE-211247?&logo=eclipseide&logoColor=white">
+    <img src="https://img.shields.io/badge/-Jupyter-707070?&logo=jupyter&logoColor=F27C21">
     <img src="https://img.shields.io/badge/-Roblox Studio-000000?&logo=robloxstudio&logoColor=white">
     <img src="https://img.shields.io/badge/-Blender-045784?&logo=blender&logoColor=ED7D0E">
     <img src="https://img.shields.io/badge/-Unity-484848?&logo=unity&logoColor=white">
