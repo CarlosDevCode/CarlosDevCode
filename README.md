@@ -5,7 +5,7 @@
 </div>
 <p>
     <img src="https://komarev.com/ghpvc/?username=CarlosDevCode&color=red&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/CarlosDevCode?&color=red&label=followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/CarlosDevCode?&color=FFFFFF&label=followers&style=for-the-badge&logo=github" />
 </p>
 
 <div>
@@ -21,8 +21,8 @@
     <br> 
     Atualmente estou: <br>
     &nbsp;&nbsp; ➜ Cursando Análise e Desenvolvimento de Sistemas na UEPB (Universidade Estadual da Paraíba) <br>
-    &nbsp;&nbsp; ➜ Estagiando no Setor de Gestão da Qualidade no HUAC (Hospital Universitário Alcides Carneiro)
-
+    &nbsp;&nbsp; ➜ Estagiando no Setor de Gestão da Qualidade no HUAC (Hospital Universitário Alcides Carneiro) <br>
+    <br>
 </div>
 
 <div align="center">
@@ -37,6 +37,7 @@
 
 <div align="center">
 </div>
+<br>
 
 ## Habilidades
 
@@ -56,7 +57,9 @@
 </div>
 
 <div align="center">
-    
+
+<br>
+
 ## Ferramentas
 
   <div>
@@ -70,6 +73,8 @@
 </div>
 
 <div align="center">
+
+<br>
 
 ## Contatos
 
