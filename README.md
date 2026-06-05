@@ -30,6 +30,7 @@
 ## Ferramentas
 
 <div>
+    <img src="https://img.shields.io/badge/-VSCODE-26A9F2?&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/-EclipseIDE-211247?&logo=eclipseide&logoColor=white">
     <img src="https://img.shields.io/badge/-Blender-045784?&logo=blender&logoColor=ED7D0E">
     <img src="https://img.shields.io/badge/-Roblox Studio-000000?&logo=robloxstudio&logoColor=white">
