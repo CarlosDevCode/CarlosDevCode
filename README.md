@@ -12,7 +12,7 @@
     <div href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&duration=3000&pause=1000&color=C80000&vCenter=true&width=435&height=47&lines=Ol%C3%A1%2C+me+chamo+Carlos!" alt="Typing SVG" /></div>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="26" /> Sobre mim
+## <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="25" /> Sobre mim
     
 <div>
     
