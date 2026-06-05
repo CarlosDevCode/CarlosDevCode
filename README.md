@@ -27,9 +27,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Projetos
 
-1.
-2.
-3.
+| 📁 Projeto | 📝 Descrição |
+|-----------|-------------|
+| [API para Segurança Farmacológica e Otimização de Estoque](link) | Desenvolvido Durante o Hackathon da 2ª Edição do INOVA HUAC|
+| [Algoritmos de Ordenação em Java](link) | Exercício Acadêmico Desenvolvido na Disciplina de POO em Java |
+| [Portfólio](link) | Meu site pessoal com meus projetos desenvolvidos |
 
 ## 🎯 Habilidades
 
