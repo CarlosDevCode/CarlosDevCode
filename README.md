@@ -1,15 +1,18 @@
 <div>
     <div align="center"> 
-        <img src="https://komarev.com/ghpvc/?username=Eraldo2006&color=red&style=flat" alt="Profile views" />
-        <img src="https://img.shields.io/github/followers/CarlosDevCode?label=followers&style=social" />
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=c80000&descAlign=0&descAlignY=0&section=header&descSize=0" />
     </div>
 </div>
+<p>
+    <img src="https://komarev.com/ghpvc/?username=CarlosDevCode&color=red&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/CarlosDevCode?label=followers&style=social" />
+</p>
 
+<div>
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&duration=3000&pause=1000&color=C80000&width=435&height=47&lines=Ol%C3%A1%2C+me+chamo+Carlos!" alt="Typing SVG" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&duration=3000&pause=1500&color=C80000&width=535&height=30&lines=Ol%C3%A1%2C+me+chamo+Carlos!;Seja+bem-vindo+ao+meu+perfil+do+GitHub!" alt="Typing SVG"/>
-
-## Sobre mim
+## <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="26" /> Sobre mim
     
 <div>
     
