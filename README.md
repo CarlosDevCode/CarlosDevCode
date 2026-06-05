@@ -22,6 +22,17 @@
     <img src="https://img.shields.io/badge/-Java-%23ED8B00?&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/-Pandas-11005E?&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/-SQLite-003959?&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/-Lua-00008B?&logo=lua&logoColor=white">
+    <img src="https://img.shields.io/badge/-Git-00008B?&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/-GitHub-000000?&logo=github&logoColor=white">
+</div>
+
+## Ferramentas
+
+<div>
+    <img src="https://img.shields.io/badge/-EclipseIDE-211247?&logo=eclipseide&logoColor=white">
+    <img src="https://img.shields.io/badge/-Blender-045784?&logo=blender&logoColor=ED7D0E">
+    <img src="https://img.shields.io/badge/-Roblox Studio-000000?&logo=robloxstudio&logoColor=white">
 </div>
 
 ## Contatos
