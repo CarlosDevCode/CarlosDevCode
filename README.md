@@ -38,20 +38,24 @@
 </div>
 
 ## Contatos
-<a href="https://www.linkedin.com/in/eraldo-carlos-porto-de-almeida-7a684a387"> 
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/eraldo-carlos-porto-de-almeida-7a684a387"> 
-<img src="https://img.shields.io/badge/-Discord-5865F2?&logo=discord&logoColor=white">
-</a>
+
 <a href="https://www.linkedin.com/in/eraldo-carlos-porto-de-almeida-7a684a387"> 
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/eraldo-carlos-porto-de-almeida-7a684a387"> 
+<a href=""> 
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/eraldo-carlos-porto-de-almeida-7a684a387"> 
+<a href=""> 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white">
+</a>
+<a href=""> 
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white">
+</a>
+<a href=""> 
+<img src="https://img.shields.io/badge/-Discord-5865F2?&logo=discord&logoColor=white">
+</a>
+<a href=""> 
+<img src="https://img.shields.io/badge/Roblox DevForum-000000?logo=roblox&logoColor=white">
 </a>
 <div>
     <img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=75&color=c80000&descAlign=0&descAlignY=0&section=footer" />
