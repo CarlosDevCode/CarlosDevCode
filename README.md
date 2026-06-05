@@ -27,7 +27,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Projetos
 
-## Habilidades
+## 🎯 Habilidades
 
 <div>
     <img src="https://img.shields.io/badge/-Python-3670A0?&logo=python&logoColor=white">
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/-GitHub-000000?&logo=github&logoColor=white">
 </div>
 
-## Ferramentas
+## 🔧 Ferramentas
 
 <div>
     <img src="https://img.shields.io/badge/-VSCODE-26A9F2?&logo=visual-studio-code&logoColor=white">
@@ -49,16 +49,13 @@
     <img src="https://img.shields.io/badge/-Unity-484848?&logo=unity&logoColor=white">
 </div>
 
-## Contatos
+## 📞 Contatos
 
 <a href="https://www.linkedin.com/in/eraldo-carlos-porto-de-almeida-7a684a387"> 
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?&logo=linkedin&logoColor=white">
 </a>
 <a href=""> 
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
-</a>
-<a href=""> 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white">
 </a>
 <a href=""> 
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?&logo=instagram&logoColor=white">
