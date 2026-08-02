@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/-CSS-1D81C2?style=for-the-badge&logo=css&logoColor=white">
     <img src="https://img.shields.io/badge/-JavaScript-F2E230?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/-TypeScript-F2E230?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/-TypeScript-2F77BF?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/-SQLite-003959?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/-Lua-00008B?style=for-the-badge&logo=lua&logoColor=white">
     <img src="https://img.shields.io/badge/-Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05437">
