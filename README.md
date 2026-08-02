@@ -83,10 +83,10 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href=""> 
-  <img src="https://img.shields.io/badge/-eraldovisk-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href=""> 
-  <img src="https://img.shields.io/badge/Roblox DevForum-000000?style=for-the-badge&logo=roblox&logoColor=white">
+  <img src="https://img.shields.io/badge/-eraldovisk-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
 
