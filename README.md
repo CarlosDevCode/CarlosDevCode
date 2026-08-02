@@ -4,7 +4,7 @@
     </div>
 </div>
 <p>
-    <img src="https://komarev.com/ghpvc/?username=CarlosDevCode&color=red&style=for-the-badge" alt=" 👁 Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=CarlosDevCode&color=red&style=for-the-badge" alt="Profile views 👁" />
     <img src="https://img.shields.io/github/followers/CarlosDevCode?&color=FFFFFF&label=followers&style=for-the-badge&logo=github" />
 </p>
 
