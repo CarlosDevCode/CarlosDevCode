@@ -7,7 +7,7 @@
 
 <h1 align="center">Eraldo Carlos</h1>
 
-<h3 align="center">Systems Analyst and Developer</h3>
+<h3 align="center">Systems Analysis and Development Student</h3>
 
 Interests:<br>
 <i>
