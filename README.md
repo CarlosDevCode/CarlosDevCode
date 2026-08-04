@@ -9,8 +9,6 @@
 
 <h3 align="center">Analista e Desenvolvedor de Sistemas</h3>
 
-<br></br>
-
 Interesses:<br>
 <i>
 Engenharia de Software, Automação de Processos, Desenvolvimento Web, <br>
