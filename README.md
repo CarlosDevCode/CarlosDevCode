@@ -11,8 +11,7 @@
 
 Interesses:<br>
 <i>
-Engenharia de Software, Automação de Processos, Desenvolvimento Web, <br>
-Estrutura de Dados e Algoritmos, Machine Learning, Inteligência Artificial.<br><br>
+Engenharia de Software • Automação de Processos • Desenvolvimento Web • Estrutura de Dados e Algoritmos • Machine Learning <br>Inteligência Artificial.<br><br>
 </i>
     
 Atualmente: <br>
