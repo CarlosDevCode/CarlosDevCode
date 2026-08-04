@@ -28,10 +28,10 @@ as a systems analyst and developer.
 ## Main Projects
 
 | Project | Description |
-|-----------|-------------|
-| [API para Segurança Farmacológica e Otimização de Estoque](link) | Desenvolvido Durante o Hackathon da 2ª Edição do INOVA HUAC|
-| [Algoritmos de Ordenação em Java](link) | Exercício Acadêmico Desenvolvido na Disciplina de POO em Java |
-| [Portfólio](link) | Meu site pessoal com meus projetos desenvolvidos |
+|---------|-------------|
+| [Portfolio](link) | My personal website featuring the projects I've developed |
+| [Enigma Encryption Machine](link) | Simulation of the Enigma encryption machine used in World War II |
+| [App for Pharmacological Safety and Inventory Optimization](link) | Developed during the 2nd INOVA HUAC Hackathon |
 
 <div align="center">
 </div>
