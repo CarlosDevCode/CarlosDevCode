@@ -70,6 +70,8 @@ como analista e desenvolvedor de sistemas.
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <table border="0">
     <tr>
