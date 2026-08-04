@@ -69,6 +69,18 @@ as a systems analyst and developer.
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosDevCode&theme=dark&hide_border=true" alt="Streak de contribuições" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div>
     <img width="100%" src= "https://capsule-render.vercel.app/api?type=waving&height=75&color=c80000&descAlign=0&descAlignY=0&section=footer" />
 </div>
