@@ -72,7 +72,7 @@ como analista e desenvolvedor de sistemas.
 
 <br>
 
-## Contatos
+## 
 
   <a href="https://www.linkedin.com/in/eraldo-carlos-porto-de-almeida-7a684a387"> 
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
