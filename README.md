@@ -32,7 +32,7 @@ como analista e desenvolvedor de sistemas.
 |---------|-----------|
 | [Portfólio](link) | Meu site pessoal com meus projetos desenvolvidos |
 | [Máquina de Criptografia Enigma](link) | Simulação da máquina de criptografia Enigma utilizada na 2ª Guerra Mundial |
-| [APP para Segurança Farmacológica e Otimização de Estoque](link) | Desenvolvido Durante o Hackathon da 2ª Edição do INOVA HUAC |
+| [APP para Segurança Farmacológica e Otimização de Estoque](link) | Desenvolvido durante o Hackathon da 2ª Edição do INOVA HUAC |
 
 <div align="center">
 </div>
