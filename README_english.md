@@ -11,8 +11,8 @@
 
 Interests:<br>
 <i>
-Software Engineering, Process Automation, Web Development, <br>
-Data Structures and Algorithms, Machine Learning, Artificial Intelligence.<br><br>
+Software Engineering • Process Automation • Web Development • Data Structures and Algorithms • Machine Learning • Artificial Intelligence
+<br>
 </i>
     
 Currently: <br>
