@@ -1,6 +1,6 @@
 <p>
     <div>
-    <a href="README.md">Português</a>/English
+    <a href="README.md">Português</a>│English
     </div>
     <img src="https://komarev.com/ghpvc/?username=CarlosDevCode&color=3D3D3D&style=for-the-badge" alt="Profile views" />
 </p>
