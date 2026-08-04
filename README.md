@@ -1,5 +1,7 @@
 <p>
-    Português/<a href="README_english.md">English</a><br><br>
+    <div>
+    Português/<a href="README_english.md">English</a>
+    </div>
     <img src="https://komarev.com/ghpvc/?username=CarlosDevCode&color=red&style=for-the-badge" alt="Profile views" />
 </p>
 
