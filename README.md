@@ -9,14 +9,16 @@
 
 <h3 align="center">Analista e Desenvolvedor de Sistemas</h3>
     
-<i>
 <br><br>
+
 Interesses:<br>
+<i>
 Engenharia de Software, Automação de Processos, Desenvolvimento Web, <br>
 Estrutura de Dados e Algoritmos, Machine Learning, Inteligência Artificial.<br><br>
-
+</i>
     
 Atualmente: <br>
+<i>
 Cursando Análise e Desenvolvimento de Sistemas na UEPB (Universidade Estadual da Paraíba) <br>
 Estagiando no Setor de Gestão da Qualidade no HUAC (Hospital Universitário Alcides Carneiro) <br>
 como analista e desenvolvedor de sistemas.
