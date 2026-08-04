@@ -29,10 +29,10 @@ como analista e desenvolvedor de sistemas.
 ## Principais Projetos
 
 | Projeto | Descrição |
-|-----------|-------------|
-| [API para Segurança Farmacológica e Otimização de Estoque](link) | Desenvolvido Durante o Hackathon da 2ª Edição do INOVA HUAC|
-| [Algoritmos de Ordenação em Java](link) | Exercício Acadêmico Desenvolvido na Disciplina de POO em Java |
+|---------|-----------|
 | [Portfólio](link) | Meu site pessoal com meus projetos desenvolvidos |
+| [Máquina de Criptografia Enigma](link) | Simulação da máquina de criptografia Enigma utilizada na Segunda Guerra Mundial |
+| [APP para Segurança Farmacológica e Otimização de Estoque](link) | Desenvolvido Durante o Hackathon da 2ª Edição do INOVA HUAC |
 
 <div align="center">
 </div>
