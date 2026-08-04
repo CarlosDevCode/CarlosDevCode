@@ -1,4 +1,5 @@
 <p>
+    Português/English<br><br>
     <img src="https://komarev.com/ghpvc/?username=CarlosDevCode&color=red&style=for-the-badge" alt="Profile views" />
 </p>
 
