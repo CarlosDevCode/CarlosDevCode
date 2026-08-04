@@ -8,7 +8,7 @@
 </p>
 
 <div>
-    <div href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&duration=3000&pause=1000&color=C80000&vCenter=true&width=435&height=47&lines=Ol%C3%A1%2C+me+chamo+Carlos!" alt="Typing SVG" /></div>
+    <h1 align="center">Eraldo Carlos</h1>
 </div>
 
 ## Sobre mim
