@@ -8,9 +8,8 @@
 <h1 align="center">Eraldo Carlos</h1>
 
 <h3 align="center">Analista e Desenvolvedor de Sistemas</h3>
-    
-<br><br>
 
+<p>
 Interesses:<br>
 <i>
 Engenharia de Software, Automação de Processos, Desenvolvimento Web, <br>
@@ -24,7 +23,7 @@ Estagiando no Setor de Gestão da Qualidade no HUAC (Hospital Universitário Alc
 como analista e desenvolvedor de sistemas.
 <br>
 </i>
-</div>
+</p>
 
 <div align="center">
     
