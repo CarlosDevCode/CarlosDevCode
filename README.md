@@ -7,7 +7,7 @@
 
 <h1 align="center">Eraldo Carlos</h1>
 
-<h3 align="center">Analista e Desenvolvedor de Sistemas</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 Interesses:<br>
 <i>
