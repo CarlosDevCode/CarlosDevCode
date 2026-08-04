@@ -10,20 +10,19 @@
 <h1 align="center">Eraldo Carlos</h1>
 
 <h3 align="center">Analista e Desenvolvedor de Sistemas</h3>
+    
+<i>
+<br><br>
+Interesses:<br>
+Engenharia de Software, Automação de Processos, Desenvolvimento Web, <br>
+Estrutura de Dados e Algoritmos, Machine Learning, Inteligência Artificial.<br><br>
 
-## Sobre mim
     
-<div>
-    
-</div>
-    Tenho 20 anos e desde criança sempre tive fascínio no desenvolvimento de jogos digitais o que acabou me gerando grande interesse e me levando a trilhar o caminho da programação.<br>
-    <br> 
-<i>    
 Atualmente: <br>
 Cursando Análise e Desenvolvimento de Sistemas na UEPB (Universidade Estadual da Paraíba) <br>
 Estagiando no Setor de Gestão da Qualidade no HUAC (Hospital Universitário Alcides Carneiro) <br>
 como analista e desenvolvedor de sistemas.
-    <br>
+<br>
 </i>
 </div>
 
