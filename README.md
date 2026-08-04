@@ -47,7 +47,7 @@ como analista e desenvolvedor de sistemas.
 |Database|<img src="https://img.shields.io/badge/-SQLite-003959?style=for-the-badge&logo=sqlite&logoColor=white">|
 |Ferramentas|<img src="https://img.shields.io/badge/-VSCODE-26A9F2?style=for-the-badge&logo=visual-studio-code&logoColor=white"><img src="https://img.shields.io/badge/-EclipseIDE-211247?style=for-the-badge&logo=eclipseide&logoColor=white"><img src="https://img.shields.io/badge/-Jupyter-707070?style=for-the-badge&logo=jupyter&logoColor=F27C21">|
 |Versionamento|<img src="https://img.shields.io/badge/-Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05437"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">|
-|OS|<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/-Windows-0078D7?style=for-the-badge&logoColor=white">|
+|SO|<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/-Windows-0078D7?style=for-the-badge&logoColor=white">|
 
 </div>
 
