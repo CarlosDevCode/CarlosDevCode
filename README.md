@@ -11,9 +11,11 @@
 
 Interesses:<br>
 <i>
-Engenharia de Software • Automação de Processos • Desenvolvimento Web • Estrutura de Dados e Algoritmos • Machine Learning <br>Inteligência Artificial.<br><br>
+Engenharia de Software • Automação de Processos • Desenvolvimento Web • Estrutura de Dados e Algoritmos • Machine Learning • Inteligência Artificial
 </i>
-    
+
+<br>
+
 Atualmente: <br>
 <i>
 Cursando Análise e Desenvolvimento de Sistemas na UEPB (Universidade Estadual da Paraíba) <br>
