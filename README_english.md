@@ -9,8 +9,6 @@
 
 <h3 align="center">Systems Analyst and Developer</h3>
 
-<br></br>
-
 Interests:<br>
 <i>
 Software Engineering, Process Automation, Web Development, <br>
