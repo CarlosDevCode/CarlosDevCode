@@ -1,8 +1,3 @@
-<div>
-    <div align="center"> 
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=c80000&descAlign=0&descAlignY=0&section=header&descSize=0" />
-    </div>
-</div>
 <p>
     <img src="https://komarev.com/ghpvc/?username=CarlosDevCode&color=red&style=for-the-badge" alt="Profile views" />
 </p>
