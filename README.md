@@ -30,7 +30,7 @@ como analista e desenvolvedor de sistemas.
 
 | Projeto | Descrição |
 |---------|-----------|
-| [Portfólio](https://carlosdevcode.github.io/portifolio/) | Meu site pessoal com meus projetos desenvolvidos |
+| [Portfólio](https://carlosdevcode.github.io/portfolio/) | Meu site pessoal com meus projetos desenvolvidos |
 | [Máquina de Criptografia Enigma](link) | Simulação da máquina Enigma utilizada na 2ª Guerra Mundial |
 | [APP para Segurança Farmacológica e Otimização de Estoque](link) | Desenvolvido durante o Hackathon da 2ª Edição do INOVA HUAC |
 
