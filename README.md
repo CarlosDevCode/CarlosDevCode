@@ -76,7 +76,7 @@ como analista e desenvolvedor de sistemas.
   <table border="0">
     <tr>
       <td colspan="2" align="center">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosDevCode&theme=dark&hide_border=true" alt="Streak de contribuições" />
+        <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=CarlosDevCode&theme=dark&hide_border=true" />
       </td>
     </tr>
   </table>
